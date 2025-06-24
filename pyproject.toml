@@ -1,0 +1,18 @@
+
+[build-system]
+requires = ["setuptools>=42", "wheel", "build"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autonomy-control-key"
+version = "0.1.0"
+description = "Omega Control Key AI autonomy system with combined Zero-Point Energy simulation."
+authors = [{name = "Luis Ayala", email = "morethanabusiness21@gmail.com"}]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+dependencies = [
+    "matplotlib",
+    "pytest",
+    "pylint"
+]
