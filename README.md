@@ -1,3 +1,6 @@
-# Autonomy Control Key AI Agent
+# Autonomy Control Key
 
-## Setup and Usage Instructions...
+Functional AI control system implementing the Ω equation for autonomous decision-making.
+
+Author: Luis Ayala  
+GitHub: https://github.com/aluisayala/autonomy-control
