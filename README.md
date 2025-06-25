@@ -1,23 +1,3 @@
-# autonomy-control[README.md](https://github.com/user-attachments/files/20893349/README.md)# Omega Control Key — Detailed Edition
+# Autonomy Control Key AI Agent
 
-This is a comprehensive demonstration of the Omega Control Equation system with combined Zero-Point Energy (ZPE) simulation effects.
-
-## Features
-
-- Ω equation for task evaluation
-- ZPE-inspired behavioral dynamics
-- Memory tracking of repeated prompts
-- Execution of basic agent decisions
-
-## Project Structure
-
-- `core/omega_control.py` – The primary Ω logic implementation
-- `agents/agent_runner.py` – Simulated execution engine
-- `README.md` – Documentation for setup and use
-
-## Run
-
-```bash
-python agents/agent_runner.py
-```
-
+## Setup and Usage Instructions...
