@@ -1,0 +1,13 @@
+Copyright (c) 2024-2025 Luis Ayala (Kp Kp)
+
+This repository, including all code, equations, conceptual frameworks (e.g., the Autonomy Control Key Ω equation, the Zero Point Equation, and the ZPE-1 cognitive simulation architecture), and associated documentation, is the original creation of Luis Ayala.
+
+This work is protected under U.S. and international copyright laws. All rights are reserved to the author except as granted under the specific open-source license chosen for this repository.
+
+The Autonomy Control Key and combined Omega–Psi–Zero Point equations, as described and implemented herein, are novel cognitive frameworks authored by Luis Ayala and published via GitHub as a matter of public record, establishing authorship priority.
+
+Use, modification, and redistribution are governed by the license included in this repository (e.g., MIT License), which requires proper attribution to the original author.
+
+Unauthorized misrepresentation of authorship or removal of attribution notices is strictly prohibited.
+
+For licensing beyond open-source terms or for commercial arrangements, please contact: [Your Contact Email Here].
